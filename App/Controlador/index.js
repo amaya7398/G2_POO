@@ -95,9 +95,9 @@ async function refresh(){   //EVENTS-------------------------------------------
                         CRUDS
                         </button>
                             <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                <li><a class="dropdown-item" href="App/Vista/CRUDevents.html">EVENTOS</a></li>
+                                <li><a class="dropdown-item" href="https://amaya7398.github.io/G2_POO/App/Vista/CRUDevents.html">EVENTOS</a></li>
                                 <li class="divider"></li>
-                                <li><a class="dropdown-item" href="App/Vista/CRUDpersonal.html">PERSONAL</a></li>
+                                <li><a class="dropdown-item" href="https://amaya7398.github.io/G2_POO/App/Vista/CRUDpersonal.html">PERSONAL</a></li>
                             </ul>
                         </div>
                     </th>
@@ -153,11 +153,11 @@ async function refreshPersonal(){   //PERSONAL --------------------------------
                             <button class="btn btn-secondary dropdown-toggle far fa-sun" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
                                 CRUDS
                             </button>
-                            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                <li><a class="dropdown-item" href="App/Vista/CRUDevents.html">EVENTOS</a></li>
+                                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                <li><a class="dropdown-item" href="https://amaya7398.github.io/G2_POO/App/Vista/CRUDevents.html">EVENTOS</a></li>
                                 <li class="divider"></li>
-                                <li><a class="dropdown-item" href="App/Vista/CRUDpersonal.html">PERSONAL</a></li>
-                            </ul>
+                                <li><a class="dropdown-item" href="https://amaya7398.github.io/G2_POO/App/Vista/CRUDpersonal.html">PERSONAL</a></li>
+                            </ul>       
                         </div>
                     </th>
                 </thead>
@@ -211,9 +211,9 @@ async function refreshEdificios(){   //EVENTS-----------------------------------
                     CRUDS
                     </button>
                         <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                            <li><a class="dropdown-item" href="App/Vista/CRUDevents.html">EVENTOS</a></li>
+                            <li><a class="dropdown-item" href="https://amaya7398.github.io/G2_POO/App/Vista/CRUDevents.html">EVENTOS</a></li>
                             <li class="divider"></li>
-                            <li><a class="dropdown-item" href="App/Vista/CRUDpersonal.html">PERSONAL</a></li>
+                            <li><a class="dropdown-item" href="https://amaya7398.github.io/G2_POO/App/Vista/CRUDpersonal.html">PERSONAL</a></li>
                         </ul>
                     </div>
                 </th>
